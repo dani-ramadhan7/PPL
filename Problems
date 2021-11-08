@@ -1,0 +1,13 @@
+Problem 1
+
+Membuat implementasi program berorientasi objek untuk studi kasus "Animal Farm".
+Di dalamnya dibuat beberapa instance Sheep dan Chicken.
+Misalnya, 4 sheep dan 6 chicken.
+
+Problem 2
+
+Buat implementasi program berorientasi objek untuk studi kasus "Pizza".
+Di dalamnya dibuat beberapa pizza dengan topping berbeda.
+Misalnya, Pizza 1 diberi topping mozzarella dan cheese, sedangkan Pizza 2 diberi topping beef, mushroom, dan cheese.
+
+Bebas menggunakan bahasa pemrograman apa pun.
